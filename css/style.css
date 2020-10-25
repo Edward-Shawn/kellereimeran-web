@@ -127,3 +127,15 @@ main{border: 1px solid red; width: 90%; margin: 0 auto; height: auto;}
 .offer>div .page-top-subtxt a{color: #000;}
 .offer>div .page-top-subtxt a:before{background: #000;}
 .offer>div .page-top-subtxt a:after{background: #000;}
+
+
+footer{border: 1px solid green; width: 90%; margin: auto; height: 400px;}
+.footer-info p{font-size: 11px; letter-spacing: -0.2px; color: #555;}
+.footer-info span{display: inline-block; margin: 2px 8px 0; background: #555; width: 10px; height: 1px;}
+.footer-icon img{width: 100%; max-width: 70px;}
+
+
+.fi1{display: flex; align-items: center;}
+.fi2{display: flex; align-items: center;}
+
+.fi3{display: flex; align-items: center; margin-top: -18px; font-size: 11px;}
